@@ -24,7 +24,7 @@ please cut-and-paste the text from that email here._
 ## Problem 1
 - Scenario: Stadium
 - Assumptions:
-  - explain_your_assumptions
+  There are a lot of people who want to do harm to the stadium. They can be terrorist, fans or employees from other sport teams. I have   to condier different situations and different countermeasures. 
 - Assets:
   1. The lawn. It should be well cared for and maintained.
   2. Floodlights. 
@@ -52,7 +52,7 @@ please cut-and-paste the text from that email here._
 ## Problem 2
 - Scenario: Grading
 - Assumptions:
-  - explain_your_assumptions
+  Some students are going to attack my computer and try to get a higher grade. They might do this through different methods and I have     to protect my computer from their attacks.
 - Assets:
   1. The contents of the homework of every student.
   2. The Student ID, Email, phone number, submission date, IP of the student’s network, submitting date of the homework.                      (confidentiality and integrity and privacy)
@@ -77,9 +77,9 @@ please cut-and-paste the text from that email here._
 
 
 ## Problem 3
-- Scenario: As a graduate student, the common scenarios are that I study at the library until very late in the night. How do I go back   to my apartment safely?
+- Scenario: As a graduate student, the common scenarios are that I study at the library until very late in the night. How do I go back     to my apartment safely?
 - Assumptions:
-  - explain_your_assumptions
+  There could be bad people who try to steal or rob me of my properties. These criminals can happen on the way between the library and     the metro sation. They can happen in the metro or on the way between the metro station to my apartment.
 - Assets:
   1. My laptop, which I will always carry with me. It contains all my homework and projects.
   2. My mobile phone, it contains important private information, for example, pictures, bank account, social media, etc.
